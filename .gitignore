@@ -1,0 +1,23 @@
+# Secret Credentials (MUST IGNORE)
+.env
+
+# Python Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases (SQLite)
+*.db
+*.sqlite
+*.sqlite3
+
+# Editor Settings (Optional)
+.vscode/
+.idea/
+.DS_Store
